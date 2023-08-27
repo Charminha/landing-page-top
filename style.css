@@ -33,3 +33,12 @@ a {
     color: #e5e7eb;
     text-decoration: none;
 }
+
+.hero {
+    display: flex;
+}
+
+img {
+    flex: 0;
+
+}
