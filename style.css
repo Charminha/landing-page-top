@@ -79,13 +79,39 @@ img {
     padding: 60px;
 }
 
-.image-box{
+.information-gallery {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.information-boxes {
+    display: flex;
+    gap: 32px;
+    justify-content: center;
+}
+
+.image-frame {
     height: 100px;
     width: 100px;
     border: 3px;
     border-style: solid;
     border-radius: 10px;
     border-color: #3882f6;
+}
+
+.information-boxes p {
+    width: 100px;
+    text-align: center;
+}
+
+.quote-section {
+    background-color: #e5e7eb;
+}
+
+.quote p {
+
 }
 
 .footer {
