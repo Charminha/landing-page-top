@@ -133,10 +133,11 @@ img {
 .call-to-action {
     color: #e5e7eb;
     text-align: center;
-    width: 700px;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
+    height: 200px;
     
 }
 
@@ -146,7 +147,15 @@ img {
     flex-direction: column;
     justify-content: center;
     padding: 10px;
+    border-radius: 10px;
+    width: 700px;
+    height: 150px;
 
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
 }
 
 .footer {
