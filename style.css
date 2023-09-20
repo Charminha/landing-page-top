@@ -84,6 +84,11 @@ img {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-bottom: 80px;
+}
+
+.information-gallery h1 {
+    margin: 40px;
 }
 
 .information-boxes {
@@ -112,6 +117,7 @@ img {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 70px;
 }
 
 .quote-section .quote {
