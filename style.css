@@ -53,6 +53,7 @@ a {
 .hero p {
     margin: 0;
     margin-bottom: 8px;
+    max-width: 700px;
 }
 
 .hero button {
