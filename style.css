@@ -78,6 +78,7 @@ a {
 img {
     height: auto;
     width: 350px;
+    max-width: 500px;
     flex: 1 1 0;    
     margin-left: 60px;
 }
